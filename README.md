@@ -2,21 +2,45 @@
 <img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
 </div>
 
-# Run and deploy your AI Studio app
+# 🧠 AI Study Plan Recommender
 
-This contains everything you need to run your app locally.
+> An AI-powered personalized learning planner that generates structured weekly study curricula, tracks progress in real time, and adapts learning paths using the Gemini API.
 
-View your app in AI Studio: https://ai.studio/apps/bd703358-f8bc-496f-a104-f1bdea464b18
+---
 
-## Run Locally
+## 🛠 Tech Stack
 
-**Prerequisites:**  Node.js
+- React
+- TypeScript
+- Node.js (Express)
+- Vite
+- Gemini API (@google/genai)
+- Tailwind CSS
+- dotenv
 
+---
+
+## ✨ Key Features
+
+- 🎯 Personalized study plan generation based on user input
+- 📅 Weekly curriculum breakdown with structured learning paths
+- 📊 Real-time progress tracking with checklist system
+- ✅ 100% completion state visualization
+- 🧠 AI-powered adaptive recommendations using Gemini API
+- 💾 Persistent state management for user progress
+
+---
+
+## 🚀 Run Locally
+
+**Prerequisites:** Node.js
 
 1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
+   ```bash
+   npm install
+2. Set your Gemini API key in .env.local:
+   GEMINI_API_KEY=your_api_key_here
+3. Start development server:
    `npm run dev`
 
 
