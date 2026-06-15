@@ -1,0 +1,6 @@
+{
+  "name": "Student Study Plan Recommender",
+  "description": "An interactive web application that generates personalized, step-by-step study plans tailored to subjects, levels, goals, and learning styles using Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
