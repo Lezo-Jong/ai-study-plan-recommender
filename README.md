@@ -48,6 +48,47 @@ evaluateCompletion()
 ↓  
 Gemini AI Feedback Loop (adaptive regeneration)
 
+## 🔗 Agent Tools & Interoperability (Day 2)
+
+This project was extended using Agent Tooling principles introduced in Day 2 of the AI Agents Intensive course.
+
+Instead of relying only on a standalone AI model, the system was enhanced with external tool integration using the Model Context Protocol (MCP).
+
+### 🧠 Key Integrations
+
+- **Model Context Protocol (MCP)**
+  - Enables AI agents to interact with external tools and services
+
+- **GitHub MCP**
+  - Allows repository-level operations such as reading, updating, and managing project files
+
+- **Google Developer Knowledge MCP**
+  - Provides access to structured developer documentation and knowledge sources
+
+- **Antigravity CLI**
+  - CLI-based agent execution environment for building and iterating AI-powered applications
+ 
+---
+
+### 🔄 Architecture Enhancement 
+
+User Input  
+↓  
+AI Agent (Gemini)  
+↓  
+MCP Tool Layer (GitHub / Google / CLI)  
+↓  
+External Systems Interaction  
+↓  
+Updated Project State
+
+### 💡 Impact of Day 2 Upgrade
+
+- AI is no longer isolated
+- System becomes tool-augmented agent
+- Enables repository-level automation
+- Introduces real-world agent interoperability
+
 ---
 
 ## 🧩 Architecture Overview
