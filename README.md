@@ -115,6 +115,25 @@ Updated Project State
 
 ---
 
+## 🔒 Security & Evaluation Layer (Day 4 Concept)
+
+### Security Considerations
+- Input validation before AI processing
+- Protection against prompt injection
+- No sensitive data storage
+- Controlled Gemini API usage
+- Isolated modular functions
+
+### Evaluation Strategy
+The system is evaluated beyond correctness:
+
+- Quality of generated study plans
+- Progress tracking consistency
+- Adaptation accuracy over time
+- User engagement flow
+
+---
+
 ## ✨ Features
 
 - AI-generated personalized study plans  
@@ -174,7 +193,8 @@ They simulate an AI agent-style modular architecture.
 - Built around a feedback-driven learning loop  
 - Modular function-based architecture  
 - Adaptive personalization over static planning  
-
+- This system is designed as a lightweight AI Agent, where state, tools, and workflow interact to create adaptive behavior.
+  
 ---
 
 ## 🧠 What makes this different?
@@ -185,6 +205,17 @@ They simulate an AI agent-style modular architecture.
 | Fixed schedule | Dynamic updates |
 | No feedback loop | Continuous optimization |
 | Rule-based | AI reasoning-driven |
+
+---
+
+## 📄 Project Context
+
+This project includes a CONTEXT.md file that defines:
+
+- System-level design principles
+- Security guidelines
+- Evaluation rules
+- Development constraints
 
 ---
 
@@ -221,8 +252,3 @@ AI is not just an API call — it is part of a continuous decision-making system
 
 ---
 
-If you like this project  
-------------------------
-
-Give it a star ⭐  
-It helps motivate further AI agent experiments and improvements.
