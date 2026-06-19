@@ -457,5 +457,3 @@ The result is a lightweight AI-powered learning assistant capable of adapting to
 * Cloud-hosted agent architecture
 
 ---
-
-⭐ If you like this project, consider giving it a star!
