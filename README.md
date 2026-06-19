@@ -163,6 +163,8 @@ This modular approach follows modern Agent design patterns where reusable skills
 ---
 
 # 🧩 Architecture Overview
+📸 Project Structure
+<img width="582" height="641" alt="project_structure" src="https://github.com/user-attachments/assets/2c760fce-a458-4e93-96a6-9a3cae073e9f" />
 
 ## System Layers
 
