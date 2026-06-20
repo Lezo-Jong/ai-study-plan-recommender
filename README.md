@@ -352,6 +352,12 @@ This approach improves maintainability, transparency, and future scalability.
 
 ---
 
+## 🎥 Demo Video
+
+[Watch Demo](https://youtu.be/gRbmd0upRsk)
+
+---
+
 # 🛠 Tech Stack
 
 ### Frontend
