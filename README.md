@@ -41,6 +41,53 @@ Core Agent Components:
 
 ---
 
+## 🤖 Multi-Agent Architecture
+
+The system follows a lightweight multi-agent design pattern where specialized components collaborate to improve learning outcomes.
+
+### Planner Agent
+
+* Generates personalized study plans using Gemini
+* Creates structured weekly learning roadmaps
+
+### Reviewer Agent
+
+* Reviews generated study plans
+* Detects missing topics or workload imbalance
+* Provides quality feedback for improvement
+
+### Evaluation Agent
+
+* Assesses plan quality across multiple dimensions
+* Scores realism, coverage, and balance
+* Supports continuous optimization
+
+### Security Layer
+
+* Validates user inputs before AI processing
+* Detects potential prompt injection attempts
+* Ensures safe interaction boundaries
+
+---
+
+### Multi-Agent Execution Flow
+
+```text
+User Input
+↓
+Security Validation
+↓
+Planner Agent
+↓
+Reviewer Agent
+↓
+Evaluation Agent
+↓
+Final Study Plan
+```
+
+---
+
 ## 🔄 Agent Workflow
 
 ```text
