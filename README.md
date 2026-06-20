@@ -476,6 +476,7 @@ Concepts applied include:
 
 The result is a lightweight AI-powered learning assistant capable of adapting to user progress and continuously improving recommendations.
 
+All recommendation schedules are generated in real-time using Google's Gemini models.
 ---
 
 # 🧠 Future Improvements
