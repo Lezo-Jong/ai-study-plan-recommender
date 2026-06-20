@@ -6,6 +6,8 @@
 
 **An AI-powered adaptive learning system that generates personalized study plans, tracks progress in real time, and continuously optimizes learning paths using Gemini API.**
 
+This README provides both a high-level overview and full technical breakdown of the system architecture and agent design.
+
 Built while studying Google's **5-Day AI Agents Intensive Course**, incorporating concepts from Agent Workflows, MCP, Agent Skills, Security & Evaluation, and Spec-Driven Development.
 
 </div>
@@ -476,7 +478,7 @@ Concepts applied include:
 
 The result is a lightweight AI-powered learning assistant capable of adapting to user progress and continuously improving recommendations.
 
-All recommendation schedules are generated in real-time using Google's Gemini models.
+This system demonstrates an adaptive AI learning agent powered by Gemini that continuously evolves based on user progress.
 ---
 
 # 🧠 Future Improvements
